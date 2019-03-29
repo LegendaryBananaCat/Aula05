@@ -8,3 +8,4 @@ C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFir
 C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.pdb
 C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.dll
 C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.pdb
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.csprojAssemblyReference.cache
