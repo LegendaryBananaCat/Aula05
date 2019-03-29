@@ -1,0 +1,10 @@
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.AssemblyInfoInputs.cache
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.AssemblyInfo.cs
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.deps.json
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.runtimeconfig.json
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.runtimeconfig.dev.json
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.dll
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\bin\Debug\netcoreapp2.1\MyFirstMethod.pdb
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.dll
+C:\Users\Joana\source\repos\MyAula05\MyFirstMethod\obj\Debug\netcoreapp2.1\MyFirstMethod.pdb
